@@ -9,7 +9,10 @@ Detect French Fake News
   - Le Monde
   - Le Figaro
 
-- Scraping FAKE news from French Parody Newspapers using "scrapy"
+- Scraping FAKE news from French Parody Newspapers using "scrapy" : 
+  - Le Gorafi
+  - NordPresse.be
+  - BuzzBeed.com
 
 - Train camemBERT model 
 - Evaluate 
