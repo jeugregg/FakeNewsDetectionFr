@@ -2,6 +2,9 @@
 
 Detect French Fake News
 
+These notebooks can scrap and train a camenBERT model to detect True or False News in French.
+More information can be found into  /doc/ folder (in French).
+
 - Scraping TRUE news from French Newspapers  using "gbolmier/newspaper-crawler" : 
   - Futura Sciences
   - Liberation
